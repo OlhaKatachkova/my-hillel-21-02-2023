@@ -29,5 +29,3 @@ user_text = user_text.replace(f'{user_text2}', f'{user_text3}')
 
 #виводим відформатований текст
 print(user_text.lower())
-
-
